@@ -90,6 +90,7 @@ legged_mppi/MPPI_tasks_push.ipynb
 To run a simulation, use the provided Python script:
 ```bash
    cd legged_mppi
+   mkdir analysis
    python simulate_mppi.py --task <task_name>
 ```
 ### Available Tasks
